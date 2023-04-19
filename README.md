@@ -1,2 +1,2 @@
-# SimpleTCPServerAndClient
-Two programs: Server and client. For demonstrating communication between Server Socket and Client Socket.
+# Simple TCP Server and Simple GUI Client App
+In this example, I try to demostrate a basic client-server socket communication.
